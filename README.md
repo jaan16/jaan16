@@ -1,6 +1,3 @@
-Here's an updated professional GitHub README template focused on your skills, technologies used, and willingness to collaborate:
-
----
 
 # 👋 Welcome to My GitHub Profile!
 
@@ -35,8 +32,8 @@ I have significant experience working with **IoT projects**, **device driver dev
 I am eager to collaborate on new projects and open to discussing innovative ideas in **embedded systems**, **IoT solutions**, and **automated product development**. I believe in contributing to a future driven by technology and sustainability.
 
 ## 📫 Contact Me
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [janardhabv3@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/janardhan-bv-28891b18b/]
 
 Feel free to explore my repositories to see my work and connect with me to start a project together!
 
