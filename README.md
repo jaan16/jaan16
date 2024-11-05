@@ -36,7 +36,3 @@ I am eager to collaborate on new projects and open to discussing innovative idea
 - **LinkedIn**: [https://www.linkedin.com/in/janardhan-bv-28891b18b/]
 
 Feel free to explore my repositories to see my work and connect with me to start a project together!
-
----
-
-This template emphasizes your technical skills and readiness for collaboration, showcasing the fields you've worked in while making your profile welcoming and professional.
